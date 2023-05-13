@@ -1,6 +1,11 @@
-/.vscode
-/voice
-/dist
+/.vscode/
+/__pycache__/
+APIkey.txt
+/build/
+/dist/
+main.spec
+/website/
+/voice/
+/Audiofiles/
 /vosk_models
-/website
-/__pycache__
+/website/
