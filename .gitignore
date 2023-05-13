@@ -1,0 +1,6 @@
+/.vscode
+/voice
+/dist
+/vosk_models
+/website
+/__pycache__
